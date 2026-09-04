@@ -1,6 +1,14 @@
 # NovaTech — Product Feature Impact & A/B Testing
 
+<p align="center">
+  <img src="dashboard/novatech_dashboard.png" alt="NovaTech A/B Testing Power BI Dashboard" width="100%">
+</p>
+
+> **Key Result:** The redesigned onboarding increased 7-day activation by **+4.93 pp (+14.73% relative)** and revenue per user by **+18.30%**.
+
 # Project Overview
+
+> **Key Result:** The redesigned onboarding increased 7-day activation by **+4.93 pp (+14.73% relative)** and revenue per user by **+18.30%**.
 
 NovaTech recently redesigned its digital product onboarding experience. The Product Team wanted to determine whether the new onboarding experience actually improved user activation, engagement, retention, and revenue.
 
